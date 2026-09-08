@@ -26,14 +26,6 @@ The system uses ADS1115 for high-resolution data acquisition, ACS758 Hall-effect
 - Voltage Divider Network
 - Solar PV Module
 
-## System Architecture
-
-[Insert Block Diagram Here]
-
-## Circuit Diagram
-
-[Insert Circuit Diagram Here]
-
 ## Software Stack
 
 - Arduino IDE
